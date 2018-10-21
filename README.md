@@ -29,9 +29,11 @@ Classification of MNIST with Dropout
 ![](https://github.com/mungsoo/CNN-with-Visualization/blob/master/images/loss_drop.jpg?raw=true)
 
 * Visualize 32 kernels
+
 ![](https://github.com/mungsoo/CNN-with-Visualization/blob/master/images/conv_filter.png?raw=true)
 
 * Visualize output feature maps
+
 ![](https://github.com/mungsoo/CNN-with-Visualization/blob/master/images/embed.png?raw=true)
 
 ![](https://github.com/mungsoo/CNN-with-Visualization/blob/master/images/result2.jpg?raw=true)
